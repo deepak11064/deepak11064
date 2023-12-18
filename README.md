@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepak11064
-- 👀 I’m interested in ...python
+- 👀 I’m interested in ... cybersecurity
 - 🌱 I’m currently learning ...python
 - 
 - 📫 How to reach me ...@ gdeepak72271@gmail.com
